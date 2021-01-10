@@ -4,7 +4,7 @@
 
 _Navigate to spring-boot-with-docker and run below commands_
 
-docker build -t docker .
+> docker build -t docker .
 
 docker container run -p 8082:8082 -d docker
 
