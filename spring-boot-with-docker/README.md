@@ -1,8 +1,6 @@
 # spring-boot-with-docker
 
-
 very basic spring project with minimum dependencies
-
 
 Monitoring SpringBoot with Prometheus and grafana
 
